@@ -36,7 +36,7 @@ pip3 install requests beautifulsoup4
 1. Clone the repository:
 
 ```
-git clone https://github.com/cainepavl/hacker-news-scraper.git
+git clone https://github.com/cainepavl/DataScraping.git
 ```
 
 2. Navigate to the project directory:
