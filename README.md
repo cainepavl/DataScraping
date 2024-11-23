@@ -67,7 +67,7 @@ python3 news.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/cainepavl/DataScraping/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -76,6 +76,8 @@ This project is licensed under the MIT License - see the [LICENSE]() file for de
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) : A library for parsing HTML and XML documents, making it easier to extract data from web pages.
 
 - [Hacker News](https://news.ycombinator.com/) : The source of the stories and votes, providing a platform for sharing and discussing tech news.
+
+- [ZTM Mastery](https://zerotomastery.io/) : For the lesson teaching this project and proving the base code.
   
 ## Contact
 
