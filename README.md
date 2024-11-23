@@ -10,6 +10,7 @@ This program fetches popular stories from Hacker News (HN) and displays them bas
 - [Usage](#usage)  
 - [How It Works](#how-it-works)  
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
 - [Contact](#contact) 
 
 ## Features  
@@ -41,7 +42,7 @@ git clone https://github.com/cainepavl/hacker-news-scraper.git
 2. Navigate to the project directory:
 
 ```
-cd WebScraper
+cd DataScraping
 ```
 
 ## Usage
@@ -68,6 +69,14 @@ python3 news.py
 
 This project is licensed under the MIT License - see the [LICENSE]() file for details.
 
+## Acknowledgements
+
+- [Requests](https://docs.python-requests.org/en/master/) : A simple and elegant HTTP library for Python, which makes sending HTTP/1.1 requests easy.
+
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) : A library for parsing HTML and XML documents, making it easier to extract data from web pages.
+
+- [Hacker News](https://news.ycombinator.com/) : The source of the stories and votes, providing a platform for sharing and discussing tech news.
+  
 ## Contact
 
-  
+If you have any questions, feel free to contact me at cainepavl@outlook.com  
